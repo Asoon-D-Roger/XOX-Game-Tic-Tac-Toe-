@@ -1,0 +1,1 @@
+Developed a console-based XOX (Tic-Tac-Toe) game using Python, providing a user-friendly interface for two players. Implemented game logic for detecting winning conditions, draw scenarios, and input validation to ensure a smooth and error-free gaming experience.
